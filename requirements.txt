@@ -1,0 +1,4 @@
+requests
+pre-commit
+pylint
+black
