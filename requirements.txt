@@ -1,4 +1,4 @@
 requests
-pre-commit
-pylint
+pre - commit
 black
+pylint
