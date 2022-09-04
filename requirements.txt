@@ -1,4 +1,4 @@
 requests
-pre - commit
+pre-commit
 black
 pylint
