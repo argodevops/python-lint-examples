@@ -1,4 +1,4 @@
 requests
 pre-commit
 black
-pylint
+ruff
