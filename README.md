@@ -2,6 +2,10 @@
 
 The example project installs `pre-commit`, `black` and `pylint` to demonstrate how to apply formatting and linting to a `git` commit.
 
+Contains example Python scripts which can be adapted and may be useful.
+
+* run_simulation.py - runs a simulation command based on an environment and type of simulation command, orginanlly written for running Gatling load simulations
+
 ## Pre-requisites
 
 Run ` $ pip install -r requirements.txt`
@@ -22,10 +26,10 @@ Run `black *.py`
 
 https://pypi.org/project/black/
 
-## pylint
+## ruff
 
 Pylint is a static code analyser for Python.
 
-Run `pylint *.py`
+Run `ruff *.py`
 
-https://pypi.org/project/pylint/
+https://github.com/astral-sh/ruff
