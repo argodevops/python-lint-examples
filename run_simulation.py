@@ -17,6 +17,7 @@ import logging
 import os
 import subprocess
 import sys
+
 import yaml
 
 
@@ -25,7 +26,7 @@ def print_usage(parser):
     logging.error("Please provide the 'env' and 'sim' arguments.")
 
 
-def check_file_exists(file_path):
+def check_file_exists(file_path: str):
     """check file actually exists"""
     if not os.path.isfile(file_path):
         logging.error(f"File not found: {file_path}")
