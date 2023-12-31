@@ -131,7 +131,7 @@ personSearch=person.csv
 2023-12-04 17:58:26,476 - INFO - Simulaton: informer
 2023-12-04 17:58:26,476 - INFO - Simulation properties: {'command': 'java -jar simulation.informer -Dtest.properties', 'properties': {'personSearch': 'person.csv'}}
 2023-12-04 17:58:26,477 - INFO - Building test.properties file
-2023-12-04 17:58:26,477 - INFO - 
+2023-12-04 17:58:26,477 - INFO -
 2023-12-04 17:58:26,477 - INFO - # TEST PROPERTIES. ENV dc1, SIM informer
 domain=https://example.com/dc1
 personSearch=person.csv
@@ -167,7 +167,7 @@ domain=https://example.com/dc1
 personSearch=person.csv
 
 2023-12-04 18:00:37,153 - INFO - Executing simulation command: java -version -Dtest.properties
-2023-12-04 18:00:37,189 - INFO - Output: 
+2023-12-04 18:00:37,189 - INFO - Output:
 2023-12-04 18:01:13,342 - INFO - Environment: dc1
 2023-12-04 18:01:13,343 - INFO - Environment properties: {'properties': {'domain': 'https://example.com/dc1'}}
 2023-12-04 18:01:13,343 - INFO - Simulaton: informer
@@ -262,7 +262,7 @@ locationSearch=location.csv
 2023-12-04 19:25:28,806 - INFO - Simulaton: informer
 2023-12-04 19:25:28,806 - INFO - Simulation properties: {'command': 'java -version -Dtest.properties', 'properties': {'personSearch': 'person.csv', 'vehicleSearch': 'vehicle.csv', 'locationSearch': 'location.csv'}}
 2023-12-04 19:25:28,806 - INFO - Building test.properties file
-2023-12-04 19:25:28,806 - INFO - 
+2023-12-04 19:25:28,806 - INFO -
 # TEST PROPERTIES. ENV dc1, SIM informer
 domain=https://example.com/dc1
 admin_user=auto.admin
@@ -278,7 +278,7 @@ locationSearch=location.csv
 2023-12-04 19:27:01,965 - INFO - Simulaton: informer
 2023-12-04 19:27:01,965 - INFO - Simulation properties: {'command': 'java -version -Dtest.properties', 'properties': {'personSearch': 'person.csv', 'vehicleSearch': 'vehicle.csv', 'locationSearch': 'location.csv'}}
 2023-12-04 19:27:01,965 - INFO - Building test.properties file
-2023-12-04 19:27:01,965 - INFO - 
+2023-12-04 19:27:01,965 - INFO -
 # TEST PROPERTIES. ENV dc1, SIM informer
 domain=https://example.com/dc1
 admin_user=auto.admin
@@ -294,7 +294,7 @@ locationSearch=location.csv
 2023-12-04 19:30:58,735 - INFO - Simulaton: informer
 2023-12-04 19:30:58,736 - INFO - Simulation properties: {'command': 'java -version -Dtest.properties', 'properties': {'personSearch': 'person.csv', 'vehicleSearch': 'vehicle.csv', 'locationSearch': 'location.csv'}}
 2023-12-04 19:30:58,736 - INFO - Building test.properties file
-2023-12-04 19:30:58,737 - INFO - 
+2023-12-04 19:30:58,737 - INFO -
 # TEST PROPERTIES. ENV dc1, SIM informer
 domain=https://example.com/dc1
 admin_user=auto.admin
@@ -311,7 +311,7 @@ locationSearch=location.csv
 2023-12-04 19:31:23,975 - INFO - Simulation properties: {'command': 'java -version -Dtest.properties', 'properties': {'personSearch': 'person.csv', 'vehicleSearch': 'vehicle.csv', 'locationSearch': 'location.csv'}}
 2023-12-04 19:31:23,975 - INFO - Building test.properties file
 2023-12-04 19:31:23,976 - INFO - Substituting in environment variable for $ADMIN_PASSWORD
-2023-12-04 19:31:23,976 - INFO - 
+2023-12-04 19:31:23,976 - INFO -
 # TEST PROPERTIES. ENV dc1, SIM informer
 domain=https://example.com/dc1
 admin_user=auto.admin
@@ -328,7 +328,7 @@ locationSearch=location.csv
 2023-12-04 19:32:09,952 - INFO - Simulation properties: {'command': 'java -version -Dtest.properties', 'properties': {'personSearch': 'person.csv', 'vehicleSearch': 'vehicle.csv', 'locationSearch': 'location.csv'}}
 2023-12-04 19:32:09,952 - INFO - Building test.properties file
 2023-12-04 19:32:09,952 - INFO - Substituting in environment variable for $ADMIN_PASSWORD
-2023-12-04 19:32:09,952 - INFO - 
+2023-12-04 19:32:09,952 - INFO -
 # TEST PROPERTIES. ENV dc1, SIM informer
 domain=https://example.com/dc1
 admin_user=auto.admin
@@ -345,7 +345,7 @@ locationSearch=location.csv
 2023-12-04 19:41:58,535 - INFO - Simulation properties: {'command': 'java -version -Dtest.properties', 'properties': {'personSearch': 'person.csv', 'vehicleSearch': 'vehicle.csv', 'locationSearch': 'location.csv'}}
 2023-12-04 19:41:58,535 - INFO - Building test.properties file
 2023-12-04 19:41:58,535 - INFO - Substituting in environment variable for $ADMIN_PASSWORD
-2023-12-04 19:41:58,536 - INFO - 
+2023-12-04 19:41:58,536 - INFO -
 # TEST PROPERTIES. ENV dc1, SIM informer
 domain=https://example.com/dc1
 admin_user=auto.admin
@@ -362,7 +362,7 @@ locationSearch=location.csv
 2023-12-04 19:42:13,908 - INFO - Simulation properties: {'command': 'java -version -Dtest.properties', 'properties': {'personSearch': 'person.csv', 'vehicleSearch': 'vehicle.csv', 'locationSearch': 'location.csv'}}
 2023-12-04 19:42:13,908 - INFO - Building test.properties file
 2023-12-04 19:42:13,908 - INFO - Substituting in environment variable for $ADMIN_PASSWORD
-2023-12-04 19:42:13,908 - INFO - 
+2023-12-04 19:42:13,908 - INFO -
 # TEST PROPERTIES. ENV dc1, SIM informer
 domain=https://example.com/dc1
 admin_user=auto.admin
@@ -379,7 +379,7 @@ locationSearch=location.csv
 2023-12-04 19:42:55,868 - INFO - Simulation properties: {'command': 'java -version -Dtest.properties', 'properties': {'personSearch': 'person.csv', 'vehicleSearch': 'vehicle.csv', 'locationSearch': 'location.csv'}}
 2023-12-04 19:42:55,868 - INFO - Building test.properties file
 2023-12-04 19:42:55,868 - INFO - Substituting in environment variable for $ADMIN_PASSWORD
-2023-12-04 19:42:55,869 - INFO - 
+2023-12-04 19:42:55,869 - INFO -
 # TEST PROPERTIES. ENV dc1, SIM informer
 domain=https://example.com/dc1
 admin_user=auto.admin
@@ -397,7 +397,7 @@ locationSearch=location.csv
 2023-12-04 19:43:04,228 - INFO - Building test.properties file
 2023-12-04 19:43:04,228 - INFO - Substituting in environment variable for $ADMIN_PASSWORD
 2023-12-04 19:43:04,228 - WARNING - Environment variable None is None
-2023-12-04 19:43:04,229 - INFO - 
+2023-12-04 19:43:04,229 - INFO -
 # TEST PROPERTIES. ENV dc1, SIM informer
 domain=https://example.com/dc1
 admin_user=auto.admin

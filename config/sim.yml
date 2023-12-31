@@ -1,6 +1,6 @@
 informer:
   command: java -version -Dtest.properties
-  properties: 
+  properties:
     personSearch: person.csv
     vehicleSearch: vehicle.csv
     locationSearch: location.csv
